@@ -16,7 +16,7 @@ The focus is on documenting the analyst workflow: *alert or task → validation 
 |---|---|---|---|
 | SOC-001 | Possible TCP SYN port scan | Suricata, EveBox, Kali Linux | Completed |
 | SOC-002 | Failed SSH login activity | Linux authentication logs, Wazuh | Completed |
-| SOC-003 | Windows file access auditing | Windows Security Event 4663, Wazuh | Investigation documented; portfolio writeup to be added |
+| SOC-003 | Windows file access auditing | Windows Security Event 4663, Wazuh | Original Word report completed; Markdown case study pending |
 
 Each case study will include its objective, environment summary, steps performed, relevant event or rule identifiers, investigation findings, evidence references, and lessons learned.
 
