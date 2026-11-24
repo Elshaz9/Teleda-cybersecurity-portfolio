@@ -4,9 +4,11 @@ Welcome to my hands-on IT Support and Cybersecurity portfolio. This repository d
 
 ## About this portfolio
 
-I use a virtual lab to practice an enterprise-style administration and security monitoring. My work includes Windows and Linux systems, Active Directory, Group Policy, Wazuh, and Suricata.
+I am using a virtual lab to practice an enterprise-style administration and security monitoring. My work includes Windows and Linux systems, Active Directory, Group Policy, Wazuh, and Suricata.
 
 The focus is on documenting the analyst workflow: *alert or task → validation → investigation → evidence → findings → response or recommendation*.
+
+## Project Portfolio
 
 # Featured SOC investigations
 
