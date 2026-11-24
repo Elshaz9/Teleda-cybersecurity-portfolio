@@ -1,22 +1,22 @@
 # TELEDA IT & Cybersecurity Portfolio
 
-Welcome to my hands-on IT Support and Cybersecurity portfolio. This repository documents practical lab work, security investigations, system administration exercises, monitoring activities, and lessons learned as I develop my skills toward IT Support and Tier 1 Security Operations Center (SOC) roles.
+Welcome to my hands-on IT Support and Cybersecurity portfolio. This repository documents my practical lab work, security investigations, system administration exercises, monitoring activities, and lessons I learned as I develop my skills toward IT Support and Tier 1 Security Operations Center (SOC) roles.
 
 ## About this portfolio
 
-I use a virtual lab to practice enterprise-style administration and security monitoring. My work includes Windows and Linux systems, Active Directory, Group Policy, Wazuh, and Suricata.
+I use a virtual lab to practice an enterprise-style administration and security monitoring. My work includes Windows and Linux systems, Active Directory, Group Policy, Wazuh, and Suricata.
 
-The focus is on documenting the analyst workflow: **alert or task → validation → investigation → evidence → findings → response or recommendation**.
+The focus is on documenting the analyst workflow: *alert or task → validation → investigation → evidence → findings → response or recommendation*.
 
-## Featured SOC investigations
+# Featured SOC investigations
 
 | ID | Investigation | Technology | Status |
 |---|---|---|---|
 | SOC-001 | Possible TCP SYN port scan | Suricata, EveBox, Kali Linux | Completed |
 | SOC-002 | Failed SSH login activity | Linux authentication logs, Wazuh | Completed |
-| SOC-003 | Windows file access auditing | Windows Security Event 4663, Wazuh | Investigation documented; portfolio write-up to be added |
+| SOC-003 | Windows file access auditing | Windows Security Event 4663, Wazuh | Investigation documented; portfolio writeup to be added |
 
-Each case study will include its objective, environment summary, steps performed, relevant event or rule identifiers, investigation findings, evidence references, and lessons learned. Sensitive details will be removed from public examples.
+Each case study will include its objective, environment summary, steps performed, relevant event or rule identifiers, investigation findings, evidence references, and lessons learned.
 
 ## Repository map
 
@@ -27,32 +27,28 @@ Each case study will include its objective, environment summary, steps performed
 - **[Scripts and Queries](05-Scripts-and-Queries/README.md)** — reviewed PowerShell, Linux commands, and SIEM queries.
 - **[Evidence Guide](06-Evidence/README.md)** — index and handling guidance for sanitized screenshots and supporting evidence.
 
-## Lab technologies
+# Lab technologies
 
 - Windows Server and Windows 11
-- Active Directory Domain Services and Group Policy
+- Active Directory Domain Services and Group Policy on windows server
 - Ubuntu Linux and Kali Linux
 - Wazuh SIEM / XDR
-- Suricata IDS
-- EveBox
+- Suricata IDS | EveBox for gui
 - VirtualBox
 - PowerShell, Linux shell, and Wazuh Discover / DQL
 
-## How I document work
+# How I document work
 
 For each project, I aim to record:
 
-1. **Objective** — what I set out to validate, investigate, or configure.
-2. **Environment** — relevant systems and tools, with sensitive details generalized.
-3. **Procedure** — the steps and commands used, with important parameters explained.
-4. **Evidence** — relevant event records, screenshots, and query results.
-5. **Analysis** — what the evidence shows and what it does not prove.
-6. **Outcome** — actions taken, result, and any follow-up work.
-7. **Lessons learned** — practical takeaways and improvements.
+1. Objective — what I set out to validate, investigate, or configure.
+2. Environment — relevant systems and tools, with sensitive details generalized.
+3. Procedure — the steps and commands used, with important parameters explained.
+4. Evidence — relevant event records, screenshots, and query results.
+5. Analysis — what the evidence shows and what it does not prove.
+6. Outcome — actions taken, result, and any follow-up work.
+7. Lessons learned — practical takeaways and improvements.
 
-## Important note
-
-This is a personal learning lab, not production security work. Examples are based on controlled lab exercises. Any sample logs, usernames, host details, and screenshots published here will be reviewed and sanitized before upload. No passwords, access tokens, private keys, or confidential organizational data belong in this repository.
 
 ## Current focus
 
