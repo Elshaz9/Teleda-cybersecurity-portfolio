@@ -164,11 +164,11 @@ By examining both interactive and background processes, I gained practical exper
 
 ## 8. Evidence
 
-The following evidence supports this exercise:
+The following screenshots were collected during this exercise and uploaded to the 06-Evidence folder:
 
-- Windows audit policy verification showing Success and Failure enabled.
-- Windows Event Viewer showing the Taskmgr.exe process creation event.
-- Windows Event Viewer showing the CompatTelRunner.exe process creation event.
-- Windows Event Viewer showing the taskhostw.exe process creation event.
-- Wazuh evidence showing the CompatTelRunner.exe and taskhostw.exe events.
-- Wazuh event details showing agent information, Event ID 4688 and Rule ID 67027.
+1. Windows-Process-Creation-01-Audit-Policy.png – Process Creation audit policy showing Success and Failure enabled.
+2. Windows-Process-Creation-02-Taskmgr.png – Windows Event Viewer showing the Taskmgr.exe process creation event.
+3. Windows-Process-Creation-03-CompatTelRunner.png – Windows Event Viewer showing the CompatTelRunner.exe process creation event.
+4. Windows-Process-Creation-04-taskhostw.png – Windows Event Viewer showing the taskhostw.exe process creation event.
+5. Windows-Process-Creation-05-Wazuh-CompatTelRunner.png – Wazuh showing the CompatTelRunner.exe process creation event.
+6. Windows-Process-Creation-06-Wazuh-taskhostw.png – Wazuh showing the taskhostw.exe process creation event.
