@@ -240,15 +240,6 @@ This exercise also helped me learn:
 - Maintaining evidence of configuration changes.
 
 
-
-### 10. Screenshot Filenames
-
-- 01-Windows-File-System-Audit-Policy.png
-- 02-SOC-Folder-SACL-Configuration.png
-- 03-Amina-Yusuf-Read-Only-Access.png
-- 04-Windows-Event-Viewer-4663.png
-- 10-Wazuh-Archive-Event-4663-Amina-Yusuf.png
-
 ## 11. Conclusion
 
 I successfully implemented and tested Windows file system auditing for the SOC department's shared folder.
@@ -256,3 +247,12 @@ I successfully implemented and tested Windows file system auditing for the SOC d
 During the investigation, I identified a Wazuh agent configuration filter that prevented Event ID 4663 from being forwarded to the SIEM. I corrected the filter, restarted the agent, generated a fresh test event, and verified that the event appeared in Wazuh archives and Discover.
 
 This exercise gave me practical experience with Windows file auditing, Security Event ID 4663, Wazuh agent troubleshooting, event forwarding, and SIEM investigation.
+
+
+### 10. Screenshot Filenames
+
+- 01-Windows-File-System-Audit-Policy.png
+- 02-SOC-Folder-SACL-Configuration.png
+- 03-Amina-Yusuf-Read-Only-Access.png
+- 04-Windows-Event-Viewer-4663.png
+- 05-Wazuh-Archive-Event-4663-Amina-Yusuf.png
