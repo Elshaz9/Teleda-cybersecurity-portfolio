@@ -79,6 +79,10 @@ However, the investigation did not identify a successful exploitation of any por
 - Enforce strong passwords and appropriate authentication controls.
 - Monitor network traffic for unusual scanning activity and investigate suspicious alerts.
 
+  ## 9. Evidence
+
+  [Open SOC-001 original Suricata alert](https://github.com/Elshaz9/Teleda-cybersecurity-portfolio/blob/main/06-Evidence/SOC-001-Suricata-Original-Alert.png?utm_source=chatgpt.com)
+
 
 
 
