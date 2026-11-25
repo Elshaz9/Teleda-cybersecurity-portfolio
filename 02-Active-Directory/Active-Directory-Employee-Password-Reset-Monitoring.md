@@ -82,3 +82,12 @@ The investigation demonstrated how Wazuh can help a SOC analyst monitor privileg
 - Event ID 4738 analysis
 - Security event correlation
 - Privileged account activity monitoring
+
+## 8.Evidence
+
+The following screenshots support the investigation of Active Directory employee password reset activity:
+
+1. [Windows Event ID 4724 – Administrator password reset activity for Mibrahim](../06-Evidence/AD-Password-Reset-01-Event-4724-Mibrahim.png).
+2. Windows Event ID 4738 – Supporting user account change event. 
+
+The Event ID 4724 evidence shows the password reset attempt initiated by the Administrator account for Mibrahim. Event ID 4738 provides supporting evidence of an account change.
