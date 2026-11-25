@@ -230,13 +230,22 @@ The tests also demonstrated that read-only employees could not modify protected 
 
 This project strengthened my understanding of enterprise identity management, Windows access control, and the principle of least privilege.
 
-## 14. Project Evidence (Screenshots)
+## Project Evidence (Screenshots)
 
 The following evidence supports the implementation documented in this project:
 
-1. Active Directory departmental OU structure.
-2. Departmental and role-based Global security groups.
-3. Domain Local resource groups and group membership.
-4. Shared folder structure on Server1.
-5. NTFS permissions configured on departmental folders.
-6. Practical access-control tests using employee accounts.
+1. [Active Directory departmental OU structure](../06-Evidence/TELEDA-AD-01-Departmental-OU-Structure.png).
+
+2. [Departmental and role-based Global security groups](../06-Evidence/TELEDA-AD-02-SOC-Global-Security-Groups.png).
+
+3. [Domain Local resource groups and group membership](../06-Evidence/TELEDA-AD-03-Domain-Local-Group-Membership.png).
+
+4. [Shared folder structure on Server1](../06-Evidence/TELEDA-AD-04-Departmental-Shared-Folders.png).
+
+5. NTFS permissions configured on departmental folders:
+   - [SOC folder NTFS permissions](../06-Evidence/TELEDA-AD-05-SOC-NTFS-Permissions.png).
+   - [Finance folder NTFS permissions](../06-Evidence/TELEDA-AD-07A-Finance-NTFS-Permissions.png).
+
+6. [Practical access-control test showing restricted access](../06-Evidence/TELEDA-AD-06-SOC-Restricted-Access-Test.png).
+
+7. [Finance permission-management access denied](../06-Evidence/TELEDA-AD-08-Finance-Permission-Management-Denied.png).
