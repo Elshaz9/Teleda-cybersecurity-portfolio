@@ -87,3 +87,10 @@ Status: Completed.
 - Event ID investigation
 - Security event correlation
 - Privileged account monitoring
+
+## 8. Evidence
+
+The following screenshots support the Domain Administrator password recovery exercise:
+
+1. [Windows Password](../06-Evidence/Windows%20Password.png)
+2. [Windows Password reset](../06-Evidence/Windows%20Password%20reset.png)
