@@ -166,9 +166,9 @@ By examining both interactive and background processes, I gained practical exper
 
 The following screenshots were collected during this exercise and uploaded to the 06-Evidence folder:
 
-1. [Process Creation audit policy](../06-Evidence/Windows-Process-Creation-01-Audit-Policy.png) – Shows Success and Failure auditing enabled.
-2. [Taskmgr.exe process creation event](../06-Evidence/Windows-Process-Creation-02-Taskmgr.png) – Windows Event Viewer evidence.
-3. [CompatTelRunner.exe process creation event](../06-Evidence/Windows-Process-Creation-03-CompatTelRunner.png) – Windows Event Viewer evidence.
-4. [taskhostw.exe process creation event](../06-Evidence/Windows-Process-Creation-04-taskhostw.png) – Windows Event Viewer evidence.
-5. [Wazuh CompatTelRunner.exe event](../06-Evidence/Windows-Process-Creation-05-Wazuh-CompatTelRunner.png) – Wazuh monitoring evidence.
-6. [Wazuh taskhostw.exe event](../06-Evidence/Windows-Process-Creation-06-Wazuh-taskhostw.png) – Wazuh monitoring evidence.
+1. [Process Creation audit policy – Shows Success and Failure auditing enabled](../06-Evidence/Windows-Process-Creation-01-Audit-Policy.png).
+2. [Taskmgr.exe process creation event – Windows Event Viewer evidence](../06-Evidence/Windows-Process-Creation-02-Taskmgr.png).
+3. [CompatTelRunner.exe process creation event – Windows Event Viewer evidence](../06-Evidence/Windows-Process-Creation-03-CompatTelRunner.png).
+4. [taskhostw.exe process creation event – Windows Event Viewer evidence](../06-Evidence/Windows-Process-Creation-04-taskhostw.png).
+5. [Wazuh CompatTelRunner.exe event – Wazuh monitoring evidence](../06-Evidence/Windows-Process-Creation-05-Wazuh-CompatTelRunner.png).
+6. [Wazuh taskhostw.exe event – Wazuh monitoring evidence](../06-Evidence/Windows-Process-Creation-06-Wazuh-taskhostw.png).
