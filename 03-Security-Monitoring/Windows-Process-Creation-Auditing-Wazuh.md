@@ -207,15 +207,14 @@ This exercise gave me practical experience with Windows auditing, Group Policy, 
 
 The following screenshots support the configuration and investigation:
 
-1. [Group Policy Management showing the workstation security baseline](Process-Creation-01-GPO-Security-Baseline.png)
-2. [Process Creation audit policy configured in the GPO](Process-Creation-02-Audit-Policy.png)
-3. [Include command line in process creation events setting enabled](Process-Creation-03-Command-Line-Auditing.png)
-4. [Group Policy Results showing that the GPOs apply to TELEDA](Process-Creation-04-Group-Policy-Results.png)
-5. [Command Prompt showing the effective audit policy](Process-Creation-05-Effective-Audit-Policy.png)
-6. [Windows Security Event Viewer showing Event ID 4688](Process-Creation-06-Windows-Event-4688.png)
-7. [Wazuh Discover showing the Soc.Admin process event](Process-Creation-07-Wazuh-Soc-Admin.png)
-8. [Wazuh Discover showing the Teledalase process event](Process-Creation-08-Wazuh-Normal-User.png)
-
+1. [Group Policy Management showing the workstation security baseline](../06-Evidence/Process-Creation-01-GPO-Security-Baseline.png)
+2. [Process Creation audit policy configured in the GPO](../06-Evidence/Process-Creation-02-Audit-Policy.png)
+3. [Include command line in process creation events setting enabled](../06-Evidence/Process-Creation-03-Command-Line-Auditing.png)
+4. [Group Policy Results showing that the GPOs apply to TELEDA](../06-Evidence/Process-Creation-04-Group-Policy-Results.png)
+5. [Command Prompt showing the effective audit policy](../06-Evidence/Process-Creation-05-Effective-Audit-Policy.png)
+6. [Windows Security Event Viewer showing Event ID 4688](../06-Evidence/Process-Creation-06-Windows-Event-4688.png)
+7. [Wazuh Discover showing the Soc.Admin process event](../06-Evidence/Process-Creation-07-Wazuh-Soc-Admin.png)
+8. [Wazuh Discover showing the Teledalase process event](../06-Evidence/Process-Creation-08-Wazuh-Normal-User.png)
 ## Skills Practised
 
 - Active Directory
