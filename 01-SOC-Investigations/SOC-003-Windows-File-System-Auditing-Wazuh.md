@@ -251,8 +251,12 @@ This exercise gave me practical experience with Windows file auditing, Security 
 
 ## 11. Evidence
 
-1. [Windows File System Audit Policy](../../06-Evidence/SOC-003/01-Windows-File-System-Audit-Policy.png)
-2. [SOC Folder SACL Configuration](../../06-Evidence/SOC-003/02-SOC-Folder-SACL-Configuration.png)
-3. [Amina Yusuf Read-Only Access](../../06-Evidence/SOC-003/03-Amina-Yusuf-Read-Only-Access.png)
-4. [Windows Event Viewer – Event 4663](../../06-Evidence/SOC-003/04-Windows-Event-Viewer-4663.png)
-5. [Wazuh Archive Event – Event 4663](../../06-Evidence/SOC-003/10-Wazuh-Archive-Event-4663-Amina-Yusuf.png)
+1. [Windows File System Audit Policy](https://github.com/Elshaz9/Teleda-cybersecurity-portfolio/blob/d9cb49c0823197c8a0ead5bb5a0d3feb4fe8b091/06-Evidence/01-Windows-File-System-Audit-Policy.png)
+
+2. [SOC Folder SACL Configuration](https://github.com/Elshaz9/Teleda-cybersecurity-portfolio/blob/d9cb49c0823197c8a0ead5bb5a0d3feb4fe8b091/06-Evidence/02-SOC-Folder-SACL-Configuration.png)
+
+3. [Amina Yusuf Read-Only Access](https://github.com/Elshaz9/Teleda-cybersecurity-portfolio/blob/d9cb49c0823197c8a0ead5bb5a0d3feb4fe8b091/06-Evidence/03-Amina-Yusuf-Read-Only-Access.png)
+
+4. [Windows Event Viewer – Event 4663](https://github.com/Elshaz9/Teleda-cybersecurity-portfolio/blob/d9cb49c0823197c8a0ead5bb5a0d3feb4fe8b091/06-Evidence/04-Windows-Event-Viewer-4663.png)
+
+5. [Wazuh Archive Event – Event 4663](https://github.com/Elshaz9/Teleda-cybersecurity-portfolio/blob/d9cb49c0823197c8a0ead5bb5a0d3feb4fe8b091/06-Evidence/05-Wazuh-Archive-Event-4663-Amina-Yusuf.png)
